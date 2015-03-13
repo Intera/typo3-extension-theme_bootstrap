@@ -39,12 +39,12 @@ $EM_CONF[$_EXTKEY] = array(
 			'themes' => '2.1.0-2.3.99',
 			'gridelements' => '3.0.0-3.1.99',
 			'themes_gridelements' => '0.1.0-1.0.0',
-			'dyncss' => '0.7.0 - 0.7.99',
-			'dyncss_less' => '0.7.0 - 0.7.99',
 		),
 		'conflicts' => array(
 		),
 		'suggests' => array(
+			'dyncss' => '0.7.0 - 0.7.99',
+			'dyncss_less' => '0.7.0 - 0.7.99',
 		),
 	),
 	'_md5_values_when_last_written' => 'a:0:{}',
